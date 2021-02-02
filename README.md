@@ -1,2 +1,10 @@
-# instagram-clone
- a clone project instagram maked during the couse Innovation One
+<img src="img/titulo-readme.jpeg"></img>
+
+## Laptop version
+
+<img src="img/responsivo-mobile.png"></img>
+
+## Mobile version
+
+
+
