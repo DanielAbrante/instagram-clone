@@ -28,4 +28,4 @@ Instagram clone
 
 ## 🔖 Layout
 
-Acess the project: [here](https://danielabrante.github.io/tribute-page/)
+Acess the project: [here](https://danielabrante.github.io/instagram-clone/)
