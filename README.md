@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="img/readme/tribute-page.png" alt="Exemplo da interface no desktop" style="width: 100%;">  
+  <img src="img/readme/instagram-clone.png" alt="Exemplo da interface no desktop" style="width: 100%;">  
 </div>
+
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=author&message=DanielAbrante&color=2D4A22&labelColor=49aa26" style="display: inline;"> 
@@ -18,7 +19,7 @@
 
 ## 💻 Project
 
-Biography about Dr. Norman Borlaug
+Instagram clone
 
 ## 🛠 Technology
 
